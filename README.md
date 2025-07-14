@@ -30,8 +30,5 @@ The MEDIBOT project is structured as follows:
 - dataset/: A directory containing the training and testing data for the project.
 - model/: A directory containing the machine learning models used in the project.
 
-Contributors
-- Hamsaveni
-
 License
 MEDIBOT is released under the https://opensource.org/licenses/MIT.
